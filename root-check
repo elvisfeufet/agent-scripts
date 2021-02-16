@@ -16,6 +16,5 @@ then
 fi
 
 #checking memory
-free -m 
-
-exit 99
+free -m
+exit 0
